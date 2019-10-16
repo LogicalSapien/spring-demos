@@ -1,2 +1,2 @@
 # spring-demos
-Spring Demos
+Spring Demo Apps
