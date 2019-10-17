@@ -1,4 +1,4 @@
 /**
- * Planet Controller Package.
+ * Planet Repository Package.
  */
-package com.logicalsapien.springbootrest.controller;
+package com.logicalsapien.sprintbooth2.repository;

@@ -1,4 +1,4 @@
 /**
- * Default package for Spring Boot Rest Application.
+ * Default package for Spring Boot H2 Rest Application.
  */
-package com.logicalsapien.springbootrest;
+package com.logicalsapien.sprintbooth2;

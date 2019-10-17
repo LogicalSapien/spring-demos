@@ -1,4 +1,4 @@
 /**
- * Planet Controller Package.
+ * Entity Package.
  */
-package com.logicalsapien.springbootrest.controller;
+package com.logicalsapien.sprintbooth2.entity;

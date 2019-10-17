@@ -1,4 +1,4 @@
 /**
- * Service Package.
+ * Controller Package.
  */
-package com.logicalsapien.sprintbooth2.service;
+package com.logicalsapien.sprintbooth2.controller;
