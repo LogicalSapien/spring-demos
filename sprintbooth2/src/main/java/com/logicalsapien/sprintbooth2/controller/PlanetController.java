@@ -8,9 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-/**
- * Planet Rest Controller.
- */
 @RestController
 @RequestMapping("/planets")
 public class PlanetController {
